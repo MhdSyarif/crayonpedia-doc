@@ -15,9 +15,9 @@ Daftar Isi:
 .. toctree::
    :maxdepth: 3
 
-   vidyanusa/vidyanusa
-   tadj/tadj
-   yoopa/yoopa
+   vidyanusa/index
+   tadj/index
+   yoopa/index
 
 
 Indices and tables
