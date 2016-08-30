@@ -20,4 +20,5 @@ Relational Database Design Diagram
 
 .. figure:: tadj-mysql.png
 
-   MySQL Relational Database Design Diagram for TADJ
+   MySQL Relational Database Design Diagram for TADJ.
+   Dibuat dengan MySQL Workbench Model Designer, file sumber di https://www.dropbox.com/s/gu0jzi80biex12z/tadj-mysql.mwb?dl=0
