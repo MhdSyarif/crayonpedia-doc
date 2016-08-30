@@ -16,7 +16,6 @@ Daftar Isi:
    :maxdepth: 3
 
    vidyanusa/index
-   tadj/index
    yoopa/index
 
 

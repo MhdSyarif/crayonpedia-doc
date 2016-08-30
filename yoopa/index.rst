@@ -10,3 +10,8 @@ Yoopa
  .. figure:: YoopaCommunity-flyer.jpg
 
     Yoopa Community
+
+.. toctree::
+   :maxdepth: 3
+
+   tadj
