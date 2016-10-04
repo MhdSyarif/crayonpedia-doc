@@ -18,7 +18,6 @@ GitHub repository: https://github.com/lskk/berkebun-rotasi-translasi
 
 Dibuat oleh
 
---------------------------------
 Game berkebun
 ------------------------------
 
